@@ -22,7 +22,7 @@ This end-to-end project involved importing a Kaggle dataset into Jupyter Noteboo
 *	Data Consistency Check : Verified if discount_applied and promo_code_used were redundant ; dropped promo_code_used . 
 *	DataFrame To csv file Conversion : Exported the data frame to “Customer Shopping Behaviour Dataset.csv"
 
-<img src = "Customer_Shopping_Behavior_Analysis\images\load_dataset.jpg" >
+<img src = "Customer_Shopping_Behavior_Analysis/images/load_dataset.jpg" >
 
 ![Initial exploration]
 (C:\Users\HOME\Desktop\Customer_Shopping_Behavior_Analysis\images\initial_explore.jpg)
