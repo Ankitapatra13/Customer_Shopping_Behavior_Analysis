@@ -21,9 +21,9 @@ This end-to-end project involved importing a Kaggle dataset into Jupyter Noteboo
 *	Created purchase_frequency_days column from frequency_of_purchases .
 *	Data Consistency Check : Verified if discount_applied and promo_code_used were redundant ; dropped promo_code_used . 
 *	DataFrame To csv file Conversion : Exported the data frame to “Customer Shopping Behaviour Dataset.csv"
-<html>
-<img src = "C:\Users\HOME\Desktop\Customer_Shopping_Behavior_Analysis\images\load_dataset.jpg" >
-</html>
+
+<img src = "Customer_Shopping_Behavior_Analysis\images\load_dataset.jpg" >
+
 ![Initial exploration]
 (C:\Users\HOME\Desktop\Customer_Shopping_Behavior_Analysis\images\initial_explore.jpg)
 
